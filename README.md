@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Ayaan0956
-- 👀 I’m interested in coding mods for minecraft and making bots for discord
-- 🌱 I currently know java
+- 👋 Ayaan
+- 🌱 I currently know javascript
 - 💞️ I don't collaborate
 - 📫 Please don't reach me
 
